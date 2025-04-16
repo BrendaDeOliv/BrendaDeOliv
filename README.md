@@ -1,9 +1,12 @@
 # Olá! Meu nome é Brenda de Oliveira👋
+<div>
+<img src="https://github.com/user-attachments/assets/ac1b9836-265e-42d9-81e7-f1f476e3ba59" width="300" height="300" align="right"/> 
+</div>
+
 ## Sobre Mim 👩🏽‍💻
 📌 Interesse em Dados, Desenvolvimento No/Low Code e Automação de Processos
   
 🎓 Graduada em Ciência da Computação
-
 ## Ferramentas e Tecnologias 🔧
 <!--
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/> 
