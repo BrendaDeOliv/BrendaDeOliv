@@ -24,15 +24,13 @@
   <a href="linkedin.com/in/brenda-de-oliveira-8549361b8" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrendaDeOliv/BrendaDeOliv/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrendaDeOliv/BrendaDeOliv/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrendaDeOliv/BrendaDeOliv/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!--
-![Snake animation](https://github.com/BrendaDeOliv/BrendaDeOliv/blob/output/github-contribution-grid-snake.svg)
--->          
+       
 <!--
 **BrendaDeOliv/BrendaDeOliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
