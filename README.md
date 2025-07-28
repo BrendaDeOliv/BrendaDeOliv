@@ -2,10 +2,10 @@
 # Olá! Meu nome é Brenda de Oliveira
 
 <img src="https://github.com/user-attachments/assets/1a0cd965-00a9-4d04-af3e-ec10a3194f2a" width="40%" align="right">
-<div   align="left" >
-<img loading="lazy" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaDeOliv&layout=compact&langs_count=7&theme=react"/>
-<img loading="lazy" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=BrendaDeOliv&show_icons=true&theme=react"/>
-</div>
+<img loading="lazy" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaDeOliv&layout=compact&langs_count=7&theme=react"/>
+<img loading="lazy" width="45%" src="https://github-readme-stats.vercel.app/api?username=BrendaDeOliv&show_icons=true&theme=react"/>
+
+
 
 ## Sobre Mim 👩🏽‍💻 
 📌 Interesse em Dados, Desenvolvimento No/Low Code e Automação de Processos
