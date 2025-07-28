@@ -1,8 +1,8 @@
 <!-- <img octocat="https://github.com/user-attachments/assets/ac1b9836-265e-42d9-81e7-f1f476e3ba59" width="400" height="400" align="right"> -->
 # Olá! Meu nome é Brenda de Oliveira
 
-<div>
 <img src="https://github.com/user-attachments/assets/1a0cd965-00a9-4d04-af3e-ec10a3194f2a" width="450" height="450" align="right">
+<div   align="left" >
 <img loading="lazy" height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaDeOliv&layout=compact&langs_count=7&theme=react"/>
 <img loading="lazy" height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=BrendaDeOliv&show_icons=true&theme=react"/>
 </div>
