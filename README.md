@@ -1,9 +1,5 @@
-<!-- <img octocat="https://github.com/user-attachments/assets/ac1b9836-265e-42d9-81e7-f1f476e3ba59" width="400" height="400" align="right"> -->
-
-<img width="1584" height="396" alt="Frame 3" src="https://github.com/user-attachments/assets/3ed7658c-0fc4-4578-88a7-4b6c7ee6a708" />
 
 # Olá! Meu nome é Brenda de Oliveira
-
 
 📌 Tenho interesse em Dados, Desenvolvimento No/Low Code e Automação de Processos
   
@@ -17,9 +13,9 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaDeOliv&langs_count=7&theme=react" 
        alt="Top Langs" 
-       style="height: 200px; max-width: 100%; object-fit: contain;"> <img src="https://github-readme-stats.vercel.app/api?username=BrendaDeOliv&show_icons=true&theme=react" 
+       style="height: 200px; max-width: 45%; object-fit: contain;"> <img src="https://github-readme-stats.vercel.app/api?username=BrendaDeOliv&show_icons=true&theme=react" 
        alt="GitHub Stats" 
-       style="height: 200px; max-width: 100%; object-fit: contain;">
+       style="height: 200px; max-width: 45%; object-fit: contain;">
 </div>
 
 
