@@ -13,9 +13,9 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaDeOliv&langs_count=7&theme=react" 
        alt="Top Langs" 
-       style="height: 200px; max-width: 45%; object-fit: contain;"> <img src="https://github-readme-stats.vercel.app/api?username=BrendaDeOliv&show_icons=true&theme=react" 
+       style="height: 200px; max-width: 10%; object-fit: contain;"> <img src="https://github-readme-stats.vercel.app/api?username=BrendaDeOliv&show_icons=true&theme=react" 
        alt="GitHub Stats" 
-       style="height: 200px; max-width: 45%; object-fit: contain;">
+       style="height: 200px; max-width: 10%; object-fit: contain;">
 </div>
 
 
