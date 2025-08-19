@@ -22,13 +22,13 @@
 ## Meus Contatos 🌐 
 
 <div>
-<a href="[https://seu-portfolio.com](https://portfoliobrenda.framer.website/)" target="_blank">
+<a href="https://portfoliobrenda.framer.website/" target="_blank">
   <img 
     src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=framer&logoColor=blue" 
     alt="Portfólio"
   >
 </a>
-<a href="linkedin.com/in/brenda-de-oliveira-8549361b8" target="_blank">
+<a href="https://linkedin.com/in/brenda-de-oliveira-8549361b8" target="_blank">
   <img 
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
     alt="LinkedIn"
