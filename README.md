@@ -8,7 +8,7 @@
 ## Ferramentas e Tecnologias 🔧
 📊 Power BI | ⚙️ Power Automation | 📱 Power Apps | 💻 Figma | 🐍 Python
 
-<!--
+
 ## Métricas GitHub 🐈‍⬛🐙
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
@@ -18,7 +18,6 @@
        alt="GitHub Stats" 
        style="height: 200px; max-width: 10%; object-fit: contain;">
 </div>
--->
 
 ## Meus Contatos 🌐 
 
